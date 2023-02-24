@@ -1,1 +1,33 @@
-p {color: red;}
+.headline {
+    color: red;
+}
+.subheader {
+    color:blue;
+}
+.intro {
+    font-size:small
+}
+.main-text {
+    font-style: oblique;
+    color: blueviolet;
+}
+#text-more {
+    color: aquamarine;
+    font-size: medium;
+}
+.bald-idea {
+    font-size: large;
+}
+#idea3 {
+    color: brown;
+}
+#endtext {
+    font-size: small;
+}
+p {
+    color: chartreuse;
+}
+.footer-element {
+    color: bisque;
+}
+
